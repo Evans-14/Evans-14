@@ -29,3 +29,5 @@ I'm a firm believer that technical competence comes from curiosity, consistent p
 ### 🐧 Linux & Systems
 
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c48e29b5-caff-426e-8c33-665af523c976.jpeg?v=1793989613)](https://www.boot.dev/certificates/c48e29b5-caff-426e-8c33-665af523c976)
+
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8caf59c9-ff27-47d5-8b5c-7f72d7bc51b0.jpeg?v=1794410305)](https://www.boot.dev/certificates/8caf59c9-ff27-47d5-8b5c-7f72d7bc51b0)
