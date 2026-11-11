@@ -1,28 +1,31 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Evans-14/Evans-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm **Evans Kithaka (Evans14)**, an Information Technology student at Karatina University with a passion for understanding how technology works beneath the surface.
 
-Here are some ideas to get you started:
+I'm fascinated by the systems, networks and infrastructure that keep our digital world connected. I enjoy exploring new technologies, solving technical problems and turning theoretical knowledge into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🏆 Certifications
+### 🚀 What I'm Exploring
+- 🌐 **Networking & Infrastructure** — Network architecture, troubleshooting, routing and switching.
+- ☁️ **Cloud Computing** — Understanding cloud infrastructure and distributed systems.
+- 🐧 **Linux & Systems Administration** — Exploring Linux environments, command-line tools and system operations.
+- 📊 **Data Analytics & Machine Learning** — Using data to uncover patterns and build intelligent solutions.
+- 🐍 **Programming & Automation** — Python, SQL and scripting to solve real-world problems.
 
-### 🐧 Learn Linux — Boot.dev
+### 🎯 My Philosophy
 
-[![Boot.dev Learn Linux Certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c48e29b5-caff-426e-8c33-665af523c976.jpeg?v=1793989613)](https://www.boot.dev/certificates/c48e29b5-caff-426e-8c33-665af523c976)
+> Learn the fundamentals. Understand the systems. Build things that work.
+
+I'm a firm believer that technical competence comes from curiosity, consistent practice and the willingness to break things, understand why they broke, and build them better.
+
+**Currently learning, experimenting and building my way towards becoming a Network Engineer.**
+
+*Always curious. Always building. Always evolving.* ⚡
 ## 🏆 Digital Credentials
 
-I am continuously investing in my technical and professional development.
+### 📊 Data & Analytics
 
-[![Data Fundamentals](./assets/badges/data-fundamentals.png)](https://www.credly.com/badges/523a604d-5193-4af0-b1a6-e9ce9825c052/public_url)
+[![Data Fundamentals](assets/data-fundamentals.jpg)](https://www.credly.com/badges/523a604d-5193-4af0-b1a6-e9ce9825c052/public_url)
 
-**Data Fundamentals** — [Verify Credential](https://www.credly.com/badges/523a604d-5193-4af0-b1a6-e9ce9825c052/public_url)
+### 🐧 Linux & Systems
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c48e29b5-caff-426e-8c33-665af523c976.jpeg?v=1793989613)](https://www.boot.dev/certificates/c48e29b5-caff-426e-8c33-665af523c976)
